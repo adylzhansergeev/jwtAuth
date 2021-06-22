@@ -1,2 +1,0 @@
-# jwtAuth
-jwtAuth Spring boot
